@@ -82,4 +82,8 @@ python app.py
 
 Desenvolvido por **[Elias Santos]**  
 - LinkedIn: [https://www.linkedin.com/in/elias-santos-/]
+<<<<<<< HEAD
 - GitHub: [github.com/elias-santos87]
+=======
+- GitHub: [github.com/elias-santos87]
+>>>>>>> 2d803d34aefd8f49a9fcabc498ee5acf763d0e28
